@@ -1,0 +1,6 @@
+c:\users\2015a320\documents\visual studio 2013\Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+c:\users\2015a320\documents\visual studio 2013\Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+c:\users\2015a320\documents\visual studio 2013\Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+c:\users\2015a320\documents\visual studio 2013\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+c:\users\2015a320\documents\visual studio 2013\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+c:\users\2015a320\documents\visual studio 2013\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
